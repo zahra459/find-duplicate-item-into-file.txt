@@ -59,4 +59,4 @@ def read_file(file):
 		print ( "uniqe IP :"+"\n"+final.read())
 
 read_file("ip.txt")
-https://github.com/zahra459/find-duplicate-item-into-file.txt.git
+
